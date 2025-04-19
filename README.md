@@ -1,2 +1,3 @@
 # delta-demo
-This is a Demo for delta
+This is a Demo for delta cource
+
